@@ -1,0 +1,16 @@
+caravel/
+def/
+dependencies/
+docs/
+gds/
+lef/
+macros/
+mag/
+maglef/
+mgmt_core_wrapper/
+sdc/
+sdf/
+signoff/
+spef/
+spi/
+openlane/a2p/runs/
